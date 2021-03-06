@@ -7,9 +7,10 @@ public class clasa {
 	
 	public void afisare()
 	{
+		System.out.println("Vectorul afisat:");
 		for(int i=0;i< vector.length;i++)
 		{
-			System.out.println("Vectorul afisat:");
+			
 			System.out.println(vector[i]);
 		}
 	}
