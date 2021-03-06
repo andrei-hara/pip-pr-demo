@@ -9,7 +9,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		
 		clasa c1=new clasa();
-		
+
 		c1.afisare();
 		
 		int x,y;
