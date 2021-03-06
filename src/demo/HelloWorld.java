@@ -12,7 +12,7 @@ public class HelloWorld {
 		x=3;
 		y=7;
 		
-		System.out.println(+adunare(x,y));
+		System.out.println(adunare(x,y));
 		
 		System.out.println("Hello World");
 		
