@@ -3,7 +3,7 @@ package demo;
 public class clasa {
 	
 
-	int vector[]={1,2,3};
+	String vector[]={"Ana","Maria","Ioana"};
 	
 	public void afisare()
 	{
